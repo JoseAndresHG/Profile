@@ -46,3 +46,5 @@ QA con experiencia en automatización de pruebas, pruebas manuales y mejora cont
 - Scrum Master Professional, año Junio 2020
 - Scrum Foundation Professional, Año Junio 2020
 - Scrum Product Owner Professional, Año Sep 2020
+
+- ![GitHub](https://img.shields.io/badge/GitHub-Experienced-lightgrey)
