@@ -1,5 +1,5 @@
 # Jose Andres Hernandez Galvis 
-Ingeniero de sistemas con 7 años en el area de calidad de software, Certificado Scrum Master Profesional, con experiencia en automatización de pruebas y mejora continua en procesos de software. con experiencia en el sector financiero y fintech como analista de pruebas, manejo de software, metodologias para el desarrollo con agilismo, estimación y planeación de proyectos y ejecución de los diferentes tipod de pruebas.
+Ingeniero de sistemas con 7 años en el area de calidad de software, certificado Scrum Master Profesional, con experiencia en automatización de pruebas y mejora continua en procesos de software. Analista de pruebas en el sector financiero y fintech, manejo de software, metodologias para el desarrollo con agilismo, estimación, planeación de proyectos y ejecución de los diferentes tipos de pruebas.
 
 
 # Profile 
@@ -13,27 +13,27 @@ Ingeniero de sistemas con 7 años en el area de calidad de software, Certificado
 
 ### Mo Credit Management Platform
 **QA Automation Enginner**  
-* Junio 2021 *  
-- Automatización de pruebas Web, Mobile y Api, ejecución de los diferentes tipos de pruebas, estimacion, y creacion de casos Gherkin.
+* Fecha inicio | Junio 2021
+- Automatización de pruebas Web, Mobile y Api, ejecución de los diferentes tipos de pruebas, estimación, y creacion de casos Gherkin.
 - Herramientas usadas: Selenium, JIRA, Robot framework, confluence, GitHub, Postman.
 
 ### SQA Software Quality Assurance
-**Analista de pruebas de softwarer**  
-* Sepiembre 2018 - Junio 2021 *  
+**Analista de pruebas de software**  
+*  Fecha inicio | Septiembre 2018 - Junio 2021  
 - Analisis y ejecución de pruebas, validación de archivos Batch, validación mensajería B24 Postilion, validación desde los diferentes canales de grupo Aval.
   Soporte a los diferentes proyectos de ATH, liderar los diferentes proyectos.
 
 ## Proyectos Destacados
-- **Automatización de pruebas con Robot Framework**: Proyecto como PayU colombia vende mas, BBVA Peru, entre otros.
+- **Automatización de pruebas con Robot Framework**: Proyecto como PayU colombia vende más, BBVA Perú, entre otros.
 
 - ## Habilidades Técnicas 🛠 
 | Habilidad     | Nivel       |
 |---------------|-------------|
-| Java          | Basico      |
+| Java          | Básico      |
 | Python        | Intermedio  |
 | SQL           | Básico      |
 
-- **Herramientas**: Selenium, Postman, JIRA, GitHub, Robot frmework, DBeaver, Postgresql.
+- **Herramientas**: Selenium, Postman, JIRA, GitHub, Robot framework, DBeaver, Postgresql.
 
 ## Educación 🎓
 - **Ingeniería en Sistemas** - Universidad Cooperativa de Colombia
@@ -45,5 +45,3 @@ Ingeniero de sistemas con 7 años en el area de calidad de software, Certificado
 - Scrum Master Professional, año Junio 2020
 - Scrum Foundation Professional, Año Junio 2020
 - Scrum Product Owner Professional, Año Sep 2020
-
-- ![GitHub](https://img.shields.io/badge/GitHub-Experienced-lightgrey)
