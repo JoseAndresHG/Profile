@@ -1,9 +1,8 @@
 # Jose Andres Hernandez Galvis 
-Ingeniero de sistemas con 7 años en el area de calidad de software, Certificado Scrum Master Profesional, automatizador de pruebas de software, con experiencia en el sector financiero y fintech como analista de pruebas, manejo de software, metodologias para el desarrollo con agilismo, estimación y planeación de proyectos, manejo de herramientas sql server, DBeaver, Postman, Postgresql, Jira, confluence, robot framework, Android Studio, y manejo de versionamientos con GitHub.
+Ingeniero de sistemas con 7 años en el area de calidad de software, Certificado Scrum Master Profesional, con experiencia en automatización de pruebas y mejora continua en procesos de software. con experiencia en el sector financiero y fintech como analista de pruebas, manejo de software, metodologias para el desarrollo con agilismo, estimación y planeación de proyectos y ejecución de los diferentes tipod de pruebas.
 
 
 # Profile 
-QA con experiencia en automatización de pruebas, pruebas manuales y mejora continua de procesos de software.
 
 <span style="color:blue">QA Automation Enginner | Control de Calidad </span>
 
@@ -34,7 +33,7 @@ QA con experiencia en automatización de pruebas, pruebas manuales y mejora cont
 | Python        | Intermedio  |
 | SQL           | Básico      |
 
-- **Herramientas**: Selenium, Postman, JIRA, GitHub, Robot frmework.
+- **Herramientas**: Selenium, Postman, JIRA, GitHub, Robot frmework, DBeaver, Postgresql.
 
 ## Educación 🎓
 - **Ingeniería en Sistemas** - Universidad Cooperativa de Colombia
