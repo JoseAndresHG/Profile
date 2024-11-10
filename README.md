@@ -21,12 +21,11 @@ QA con experiencia en automatización de pruebas, pruebas manuales y mejora cont
 ### SQA Software Quality Assurance
 **Analista de pruebas de softwarer**  
 * Sepiembre 2018 - Junio 2021 *  
-- Analisis y ejecucion de pruebas, validación de archivos Batch, validacion mensajeria B24 Postilion, validacion desde los diferentes canales de grupo Aval.
+- Analisis y ejecución de pruebas, validación de archivos Batch, validación mensajería B24 Postilion, validación desde los diferentes canales de grupo Aval.
   Soporte a los diferentes proyectos de ATH, liderar los diferentes proyectos.
 
 ## Proyectos Destacados
-- **Automatización de pruebas con Selenium**: Proyecto en el que desarrollaste un conjunto de pruebas automatizadas.
-- **Gestión de errores en JIRA**: Descripción del proyecto y tu rol en él.
+- **Automatización de pruebas con Robot Framework**: Proyecto como PayU colombia vende mas, BBVA Peru, entre otros.
 
 - ## Habilidades Técnicas 🛠 
 | Habilidad     | Nivel       |
@@ -40,7 +39,7 @@ QA con experiencia en automatización de pruebas, pruebas manuales y mejora cont
 ## Educación 🎓
 - **Ingeniería en Sistemas** - Universidad Cooperativa de Colombia
 
-- ## 🌐 Idiomas
+## Idiomas 🌐
 - Ingles A2
   
 ## Certificaciones 🏆
